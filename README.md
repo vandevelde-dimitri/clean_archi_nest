@@ -9,7 +9,7 @@ A starter project for building scalable and maintainable [NestJS](https://nestjs
 To create a new project based on this template, run:
 
 ```bash
-git clone
+git clone https://github.com/vandevelde-dimitri/clean_archi_nest.git
 ```
 
 This will automatically clone the template into a new directory named my-app and install all dependencies.
